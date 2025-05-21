@@ -56,3 +56,4 @@ export default App;
 ```
 - In this example, when the user clicks on "Home" or "About," the corresponding component (Home or About) will be displayed, and the URL will update accordingly without causing a full page reload.
 - React Router is essential for building modern, dynamic React applications with smooth navigation and state management!
+
